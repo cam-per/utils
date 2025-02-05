@@ -1,7 +1,7 @@
 package event
 
 import (
-	"github.com/cam-per/kuroko/pkg/generic"
+	"github.com/cam-per/utils/generic"
 	"sync"
 	"time"
 )
